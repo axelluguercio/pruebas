@@ -1,0 +1,4 @@
+<?php
+
+	ESTE ES UN HEADER EN PHP PARA LA PAGINA
+?>
