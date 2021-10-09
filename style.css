@@ -1,3 +1,10 @@
-html {
-	background-color: red;
+
+
+.btn {
+    color: antiquewhite;
+    background-color:rgb(35, 114, 59) ;
+    width: 100px;
+    border-radius: 10px;
+    box-shadow:  5px 5px 5px #888888;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
