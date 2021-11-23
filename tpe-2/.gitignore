@@ -1,0 +1,5 @@
+# Ignora la carpeta img
+img/*
+
+# Ignora la carpeta template_c
+template_c/*
